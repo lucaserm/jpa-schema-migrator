@@ -1,0 +1,21 @@
+{
+  "tables" : [ {
+    "name" : "users",
+    "columns" : [ {
+      "name" : "email",
+      "sqlType" : "VARCHAR(255)",
+      "nullable" : true,
+      "primaryKey" : false
+    }, {
+      "name" : "id",
+      "sqlType" : "BIGINT",
+      "nullable" : false,
+      "primaryKey" : true
+    }, {
+      "name" : "username",
+      "sqlType" : "VARCHAR(120)",
+      "nullable" : false,
+      "primaryKey" : false
+    } ]
+  } ]
+}

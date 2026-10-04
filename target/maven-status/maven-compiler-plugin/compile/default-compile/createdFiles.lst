@@ -1,0 +1,6 @@
+dev/kiaz/migrate/Main$Options.class
+dev/kiaz/migrate/Main.class
+dev/kiaz/migrate/model/TableModel.class
+dev/kiaz/migrate/model/SchemaModel.class
+dev/kiaz/migrate/model/ColumnModel.class
+dev/kiaz/migrate/example/User.class

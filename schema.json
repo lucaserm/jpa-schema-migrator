@@ -1,0 +1,16 @@
+{
+  "tables" : [ {
+    "name" : "users",
+    "columns" : [ {
+      "name" : "id",
+      "sqlType" : "BIGINT",
+      "nullable" : false,
+      "primaryKey" : true
+    }, {
+      "name" : "username",
+      "sqlType" : "VARCHAR(120)",
+      "nullable" : false,
+      "primaryKey" : false
+    } ]
+  } ]
+}
